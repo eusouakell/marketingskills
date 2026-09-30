@@ -1,5 +1,7 @@
 # Marketing Skills for AI Agents
 
+> **Reference fork:** This is Kell Bonassoli's fork of [Marketing Skills by Corey Haines and contributors](https://github.com/coreyhaines31/marketingskills). The upstream library is their work; no original authorship is claimed by Kell. Her context architecture project lives in [Marketing Context System](https://github.com/eusouakell/marketing-context-system). The upstream skills, tools and MIT license are preserved.
+
 A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Claude Code, OpenAI Codex, Cursor, Windsurf, and any agent that supports the [Agent Skills spec](https://agentskills.io).
 
 Built by [Corey Haines](https://corey.co?ref=marketingskills). Need hands-on help? Check out [Conversion Factory](https://conversionfactory.co?ref=marketingskills) — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to [Swipe Files](https://swipefiles.com?ref=marketingskills). Want an autonomous AI agent that uses these skills to be your CMO? Try [Magister](https://magistermarketing.com?ref=marketingskills).
